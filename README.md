@@ -1,3 +1,5 @@
+进销存部署专用镜像，docker run -d -p 8080:80 -v /root/zbjtools20230728/app:/var/www a9156
+
 apache-php
 ===================================
 
